@@ -15,3 +15,6 @@ Then, based on this functional analysis, a non-functional prototype of the propo
 
 ## REFLECTIONS
 This project taught me about the Design Thinking methodology and how it can be employed to create useful solutions for users by following certain phases like empathy, define, ideation, prototype and testing phase. It helped me learn how to tackle problems in a better manner and become competent at designing systems without any presumptions regarding users.
+
+## VIDEO LINK
+https://drive.google.com/drive/folders/18Yy7T4URd6p0LwL6Ipbj8BPPps_JKImO?usp=drive_link
