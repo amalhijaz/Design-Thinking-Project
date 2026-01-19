@@ -1,5 +1,11 @@
 # Design Thinking Project
 
+## TEAM MEMBERS
+- AMAL HIJAZ BIN ABD WAHID
+- AHMAD NUR SHAZLAN BIN BAHRI
+- SHARWIN RAJ A/L K SEGAR
+- AMREISH A/L UMAPATHY
+
 ## PROJECT OVERVIEW
 The project aimed to alleviate indoor navigation difficulties within Universiti Teknologi Malaysia, where the large size of campus buildings, numbers of floors, and similarity in corridor appearances continuously make students and visitors experience confusion, stress, and pressure. The conventional navigation approaches using signboards and static maps were ineffective, especially for complex indoor navigation. In response, we created a user-centered digital solution-the UTM Indoor Navigation System-to address this.
 
